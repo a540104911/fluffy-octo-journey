@@ -17,7 +17,7 @@ SS协议中转机场，过境大带宽。适合不想人太多的，速度不错
 
 开业时长：三年
 
-协议：Shadowsocks
+翻墙协议：Shadowsocks
 
 支付方式：支付宝/微信
 
@@ -47,7 +47,7 @@ ChatGPT/OpenAI解锁: 除香港基本全解锁
 
 开业时长：2年
 
-协议：Shadowsocks、
+翻墙协议：Shadowsocks、
 
 支付方式：支付宝/usdt
 
@@ -71,7 +71,7 @@ ChatGPT/OpenAI解锁: 除香港基本全解锁
 
 开业时长：4年
 
-协议：Shadowsocks 
+翻墙协议：Shadowsocks 
 
 支付方式：微信/usdt/支付宝
 
@@ -95,7 +95,7 @@ Plus：1024G流量/月。|￥120/月
 
 开业时长：2年
 
-协议：Vmess
+翻墙协议：Vmess
 
 支付方式：支付宝
 
@@ -121,7 +121,7 @@ F套餐:每月500G|￥50/月
 
 开业时长：3年
 
-协议：Shadowsocks
+翻墙协议：Shadowsocks
 
 支付方式：微信/支付宝
 
@@ -152,7 +152,7 @@ ChatGPT/OpenAI解锁: 除香港基本全解锁
 
 开业时长：4年
 
-协议：Shadowsocks
+翻墙协议：Shadowsocks
 
 支付方式：支付宝
 
@@ -181,7 +181,7 @@ ChatGPT/OpenAI解锁: 除香港基本全解锁
 
 开业时长：三年
 
-协议：Shadowsocks
+翻墙协议：Shadowsocks
 
 支付方式：支付宝/微信
 
@@ -208,7 +208,7 @@ WgetCloud （原 GaCloud） 是一家主打稳定老牌靠谱翻墙的机场服�
 
 开业时长：四年
 
-协议：Shadowsocks
+翻墙协议：Shadowsocks
 
 支付方式：支付宝/微信
 
@@ -233,7 +233,7 @@ Plus 套餐：380G流量。|￥38/月
 
 开业时长：三年
 
-协议：Shadowsocks
+翻墙协议：Shadowsocks
 
 支付方式：支付宝/微信
 
@@ -259,7 +259,7 @@ ChatGPT/OpenAI解锁: 除香港基本全解锁
 
 开业时长：三年
 
-协议：Shadowsocks
+翻墙协议：Shadowsocks
 
 支付方式：支付宝/USDT
 

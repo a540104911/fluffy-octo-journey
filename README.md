@@ -17,6 +17,8 @@
 
 开业时长：三年
 
+一键客户端：Android/pc
+
 翻墙协议：Shadowsocks
 
 支付方式：支付宝/微信
@@ -47,6 +49,8 @@ ChatGPT/OpenAI解锁: 除香港基本全解锁
 
 开业时长：2年
 
+一键客户端：Android
+
 翻墙协议：Shadowsocks、
 
 支付方式：支付宝/usdt
@@ -71,6 +75,8 @@ ChatGPT/OpenAI解锁: 除香港基本全解锁
 
 开业时长：4年
 
+一键客户端：Android/pc
+
 翻墙协议：Shadowsocks 
 
 支付方式：微信/usdt/支付宝
@@ -94,6 +100,8 @@ Plus：1024G流量/月。|￥120/月
 稳定指数：★★★★★
 
 开业时长：2年
+
+一键客户端：Android/pc
 
 翻墙协议：Vmess
 
@@ -120,6 +128,8 @@ F套餐:每月500G|￥50/月
 稳定指数：★★★★
 
 开业时长：3年
+
+一键客户端：Android
 
 翻墙协议：Shadowsocks
 
@@ -152,6 +162,8 @@ ChatGPT/OpenAI解锁: 除香港基本全解锁
 
 开业时长：4年
 
+一键客户端：Android
+
 翻墙协议：Shadowsocks
 
 支付方式：支付宝
@@ -181,6 +193,8 @@ SpeedCAT加速器机场老牌专线中转ss协议翻墙机场，流媒体解锁�
 
 开业时长：三年
 
+一键客户端：Android/pc
+
 翻墙协议：Shadowsocks
 
 支付方式：支付宝/微信
@@ -208,6 +222,8 @@ WgetCloud （原 GaCloud） 是一家主打稳定老牌靠谱翻墙的机场加�
 
 开业时长：四年
 
+一键客户端：Android
+
 翻墙协议：Shadowsocks
 
 支付方式：支付宝/微信
@@ -232,6 +248,8 @@ Plus 套餐：380G流量。|￥38/月
 稳定指数：★★★★★★★
 
 开业时长：三年
+
+一键客户端：Android/pc
 
 翻墙协议：Shadowsocks
 
@@ -258,6 +276,8 @@ ChatGPT/OpenAI解锁: 除香港基本全解锁
 稳定指数：★★★★
 
 开业时长：三年
+
+一键客户端：Android/pc
 
 翻墙协议：Shadowsocks
 
